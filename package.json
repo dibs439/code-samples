@@ -9,6 +9,7 @@
   "author": "Dibyendu Miitra Roy",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "node-cache": "^5.1.2"
   }
 }
